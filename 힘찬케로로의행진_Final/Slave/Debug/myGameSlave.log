@@ -1,0 +1,10 @@
+﻿  myGameSlave.cpp
+C:\Users\user\Desktop\네겜프기말\myGame\Slave\myGameSlave.cpp(71,19): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\user\Desktop\네겜프기말\myGame\Slave\myGameSlave.cpp(71,19): warning C4566: 유니버설 문자 이름 '\u02B1'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\user\Desktop\네겜프기말\myGame\Slave\myGameSlave.cpp(71,19): warning C4566: 유니버설 문자 이름 '\u022D'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\user\Desktop\네겜프기말\myGame\Slave\myGameSlave.cpp(71,19): warning C4566: 유니버설 문자 이름 '\u07FD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\user\Desktop\네겜프기말\myGame\Slave\myGameSlave.cpp(71,19): warning C4566: 유니버설 문자 이름 '\u03F4'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\user\Desktop\네겜프기말\myGame\Slave\myGameSlave.cpp(71,78): warning C4566: 유니버설 문자 이름 '\uFFFD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+C:\Users\user\Desktop\네겜프기말\myGame\Slave\myGameSlave.cpp(273,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : 'sscanf' 선언을 참조하십시오.
+  myGameSlave.vcxproj -> C:\Users\user\Desktop\네겜프기말\myGame\Slave\Debug\myGameSlave.exe
