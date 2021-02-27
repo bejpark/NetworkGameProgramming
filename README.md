@@ -1,2 +1,2 @@
 # NetworkGameProgramming
-[C] NGP
+[C++] NGP
